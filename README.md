@@ -8,6 +8,6 @@ npm i cypress --save
 3. Copiar la carpeta AutomatizacionPrueba dentro de la ruta :
 cypress -> integration -> AutomatizacionPrueba
 
-4. Para ejecutar el entorno de Cypress, dentro de la ruta donde esta el proyecto ejecutar en el terminar:
+4. Para ejecutar el entorno de Cypress, dentro de la ruta donde esta el proyecto se debe ejecutar desde el terminar:
 .\node_modules\.bin\cypress open
 
